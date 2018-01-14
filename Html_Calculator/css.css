@@ -1,0 +1,33 @@
+body{
+    max-width:290px;
+    margin: auto;
+    margin-top: 240px;
+    background: #2E2E2E;
+}
+
+div input{
+	margin-right: 5px;
+    text-align: right;
+    cursor: default;
+    width: 249px;
+	height: 25px;
+}
+
+button {
+	width: 60px;
+	height: 30px;
+	text-align: center;
+	background-color: #47B1AD;
+}
+button:hover {
+	background-color: #288683;
+}
+form{
+	width: 300px;
+}
+
+div{
+	margin-bottom: 5px;
+	float:left;
+}
+
